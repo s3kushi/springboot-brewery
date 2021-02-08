@@ -1,6 +1,6 @@
-package com.sekushi.springbootbrewery.services;
+package com.sekushi.brewery.services;
 
-import com.sekushi.springbootbrewery.web.model.CustomerDTO;
+import com.sekushi.brewery.web.model.CustomerDTO;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Service;
 

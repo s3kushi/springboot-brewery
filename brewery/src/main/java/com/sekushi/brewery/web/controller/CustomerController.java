@@ -1,7 +1,7 @@
-package com.sekushi.springbootbrewery.web.controller;
+package com.sekushi.brewery.web.controller;
 
-import com.sekushi.springbootbrewery.services.CustomerService;
-import com.sekushi.springbootbrewery.web.model.CustomerDTO;
+import com.sekushi.brewery.services.CustomerService;
+import com.sekushi.brewery.web.model.CustomerDTO;
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

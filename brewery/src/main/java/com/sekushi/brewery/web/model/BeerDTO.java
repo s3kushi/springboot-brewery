@@ -1,4 +1,4 @@
-package com.sekushi.springbootbrewery.web.model;
+package com.sekushi.brewery.web.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
